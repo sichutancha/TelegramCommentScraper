@@ -1,0 +1,6 @@
+telethon
+python-dotenv
+pandas
+plotly
+tqdm
+schedule==1.2.1
