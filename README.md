@@ -21,8 +21,11 @@ python3 channel_analyzer.py @xxx
 #  运行截图  （Screenshot of the program running) :
 ![](media/1.png)
 
+![](media/4.png)
+
 ![](media/2.png)
 
+![](media/3.png)
 
 
 #  更多精彩内容请关注微信公众号 :
