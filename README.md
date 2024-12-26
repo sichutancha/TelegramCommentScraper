@@ -11,6 +11,7 @@ Telegram channel comment batch crawling tool, enter channel address to traverse 
 
 ```
 配置API文件：config.env
+
 pip3 install -r requirements.txt
 
 python3 channel_analyzer.py @xxx
